@@ -12,6 +12,8 @@ https://www.tripleoxygen.net/
 
 https://www.mxic.com.tw/
 
+https://freshtomato.org/
+
 SoC: BCM68380 - Broadcom - MIPS74k 600MHz 2cores - GbE PHYs, USB, SLAC, SIM card controller EPON/GPON GE Processor
 
 RAM: H5TQ2G63GFR - SK Hynix 2 Gbit (256 MB) DDR3 SDRAM
