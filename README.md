@@ -1,6 +1,6 @@
 # Fiberhome-AN5506-04-FG
 
-This repository is about a GPON ONU. Someone from service provider scheduled to pick it up as I was not a subscriber anymore. They stopped by and don't found me on first time. Fact is there was never a second time and the device was getting dust on my desk.
+This repository is about a GPON ONU device. Someone from service provider scheduled to pick it up as I was not a subscriber anymore. They stopped by and don't found me on first time. Fact is there was never a second time and the device was getting dust on my desk.
 
 So I decided to investigate how to put it to a better use. A long time ago I have heard about DD-WRT, then payed their website a visit and searched for compatible devices but no lucky. Facing the long list of supported devices I got intrigued why mine wasn't.
 
