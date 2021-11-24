@@ -14,6 +14,6 @@ https://www.mxic.com.tw/
 
 SoC: BCM68380
 
-RAM: 
+RAM: H5TQ2G63GFR - SK Hynix 2 Gbit (256 MB) DDR3 SDRAM
 
 Flash: MX30LF1G18AC - Macronix 1 Gbit (128 MB) NAND
